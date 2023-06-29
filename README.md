@@ -39,6 +39,7 @@ Childcare educators and organizations seeking a streamlined solution for managin
 
 ### Project Tools:
 
+- Github (for source control and collaboration)
 - Figma (for visual planning and collaboration)
 - Trello (for task tracking and project management)
 
