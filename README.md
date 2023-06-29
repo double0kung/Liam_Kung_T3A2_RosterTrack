@@ -30,12 +30,20 @@ Childcare educators and organizations seeking a streamlined solution for managin
 
 - HTML
 - CSS
+- Bootstrap
 - JavaScript
 - MongoDB (database)
 - Express.js (backend framework)
 - React (frontend library)
 - Node.js (backend runtime environment)
 - Mongoose (object modeling for MongoDB)
+- Passport.js (authentication middleware)
+
+### Third-Party Tools:
+- AWS
+- Google Calendar
+- Mailjet
+- Postman
 
 ### Project Tools:
 
