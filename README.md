@@ -55,6 +55,10 @@ Childcare educators and organizations seeking a streamlined solution for managin
 
 ## R3: Application Architecture Diagram
 
+![Application Architecture Diagram](docs/Diagrams/Application_Architecture_Diagram.png)
+
+
+
 ## R4: User Stories
 
 ## R5: Wireframes
