@@ -61,6 +61,27 @@ Childcare educators and organizations seeking a streamlined solution for managin
 
 ## R4: User Stories
 
+### Staff:
+
+As a staff member, I want to be able to see my roster in a calendar format so I can understand my schedule with ease.
+
+As a staff member, I need to be able to access my roster on multiple devices.
+
+As an employee, I want to be able to view my work schedule in advance, so that I can plan my personal activities and commitments accordingly.
+
+As an employee, I want to be able to set my availability preferences, so that the manager takes them into account and assigns shifts accordingly.
+
+
+### Manager:
+
+As a manager, I want to be able to easily asign shifts to my staff.
+
+As a manager, I need something intuitive and easy to use, to increase my efficency when I organise staff shifts.
+
+As a manager, I want to be able to create and manage employee schedules easily, so that I can efficiently allocate resources and ensure adequate coverage for all shifts.
+
+
+
 ## R5: Wireframes
 
 ### Desktop
