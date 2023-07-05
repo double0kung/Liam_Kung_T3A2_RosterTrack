@@ -63,29 +63,39 @@ Childcare educators and organisations seeking a streamlined solution for managin
 
 ### Staff:
 
+
 #### Staff Member 1
 
 " As a staff member, I want to be able to see my roster in a calendar format so I can understand my schedule with ease."
+
 
 Revised & refined -
 
 "As a staff member, I want to be able to see my roster in a calendar format so I can understand my schedule with ease. Additionally, I would like to receive notifications or reminders for any changes or updates to my shifts, so that I am always aware of the latest schedule modifications. This will help me stay organised and prevent any potential conflicts with my personal activities and commitments."
 
+
+
 #### Staff Member 2
 
 "As a staff member, I need to be able to access my roster on multiple devices."
+
 
 Revised & refined -
 
 "As a staff member, I need to be able to access my roster on multiple devices. This will allow me to view and manage my schedule conveniently, whether I'm using a computer, tablet, or smartphone."
 
+
+
 #### Staff Member 3
 
 "As an employee, I want to be able to view my work schedule in advance, so that I can plan my personal activities and commitments accordingly."
 
+
 Revised & refined - 
 
 "As an employee, I want to be able to view my work schedule in advance, so that I can plan my personal activities and commitments accordingly. Having a clear overview of my upcoming shifts will help me effectively manage my time and make necessary arrangements in advance."
+
+
 
 #### Staff Member 4
 
@@ -93,29 +103,38 @@ Revised & refined -
 
 Revised & refined - 
 
+
 "As an employee, I want to be able to set my availability preferences, so that the manager takes them into account and assigns shifts accordingly. By specifying my preferred working hours and days off, I can ensure a better work-life balance and increase job satisfaction."
 
 
 ### Managers:
+
 
 #### Centre Manager
 As a manager, I want to be able to easily asign shifts to my staff.
 
 Revised & refined -
 
+
 "As a manager, I want to be able to easily assign shifts to my staff. The app should provide a user-friendly interface that allows me to quickly allocate employees to specific shifts, taking into consideration their availability, qualifications, and any preferences they have expressed. I'm also sick of these fools claiming they haven't seen the roster."
+
+
 
 #### Centre Assistant Manager (assman)
 
 "As assman, I need something intuitive and easy to use, to increase my efficency when I organise staff shifts."
 
+
 Revised & refined -
 
 "As assman, I need something intuitive and easy to use, to increase my efficiency when I organise staff shifts. The app should have a streamlined workflow and intuitive design that enables me to create, edit, and manage employee schedules effortlessly. This will save time and minimize errors in the scheduling process."
 
-#### Director
+
+
+### Director
 
 "As director, I need my ledership team to be able to create and manage employee schedules easily, so that I can efficiently allocate resources and ensure adequate staffing is in place for all shifts."
+
 
 Revised & refined -
 
