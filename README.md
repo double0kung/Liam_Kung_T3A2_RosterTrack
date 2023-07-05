@@ -11,9 +11,9 @@ RosterTrack is an online roster management platform designed to streamline team 
 ### Functionality/Features:
 
 - Admin Dashboard: The admin can create and manage team rosters, assign shifts, and update schedules as needed.
-- Calendar View: An interactive calendar interface displays team schedules, making it easy to visualize and manage shifts.
+- Calendar View: An interactive calendar interface displays team schedules, making it easy to visualise and manage shifts.
 - User Roles: Different user roles are implemented, with admins having full roster management capabilities and standard users being able to view the calendar and their assigned shifts.
-- Secure Login and User Management: A secure login system ensures only authorized individuals can access the platform. User management allows for adding, editing, and removing users.
+- Secure Login and User Management: A secure login system ensures only authorised individuals can access the platform. User management allows for adding, editing, and removing users.
 - Automated Email Notifications: Email notifications are sent automatically to team members for their assigned shifts, reducing manual communication efforts.
 
 ### Additional features if time permits:
@@ -24,7 +24,7 @@ RosterTrack is an online roster management platform designed to streamline team 
 
 ### Target Audience:
 
-Childcare educators and organizations seeking a streamlined solution for managing team rosters. The platform caters to both admins responsible for roster creation and standard users who need visibility into their assigned shifts.
+Childcare educators and organisations seeking a streamlined solution for managing team rosters. The platform caters to both admins responsible for roster creation and standard users who need visibility into their assigned shifts.
 
 ### Tech Stack:
 
@@ -63,23 +63,63 @@ Childcare educators and organizations seeking a streamlined solution for managin
 
 ### Staff:
 
-As a staff member, I want to be able to see my roster in a calendar format so I can understand my schedule with ease.
+#### Staff Member 1
 
-As a staff member, I need to be able to access my roster on multiple devices.
+" As a staff member, I want to be able to see my roster in a calendar format so I can understand my schedule with ease."
 
-As an employee, I want to be able to view my work schedule in advance, so that I can plan my personal activities and commitments accordingly.
+Revised & refined -
 
-As an employee, I want to be able to set my availability preferences, so that the manager takes them into account and assigns shifts accordingly.
+"As a staff member, I want to be able to see my roster in a calendar format so I can understand my schedule with ease. Additionally, I would like to receive notifications or reminders for any changes or updates to my shifts, so that I am always aware of the latest schedule modifications. This will help me stay organised and prevent any potential conflicts with my personal activities and commitments."
+
+#### Staff Member 2
+
+"As a staff member, I need to be able to access my roster on multiple devices."
+
+Revised & refined -
+
+"As a staff member, I need to be able to access my roster on multiple devices. This will allow me to view and manage my schedule conveniently, whether I'm using a computer, tablet, or smartphone."
+
+#### Staff Member 3
+
+"As an employee, I want to be able to view my work schedule in advance, so that I can plan my personal activities and commitments accordingly."
+
+Revised & refined - 
+
+"As an employee, I want to be able to view my work schedule in advance, so that I can plan my personal activities and commitments accordingly. Having a clear overview of my upcoming shifts will help me effectively manage my time and make necessary arrangements in advance."
+
+#### Staff Member 4
+
+"As an employee, I want to be able to set my availability preferences, so that the manager takes them into account and assigns shifts accordingly."
+
+Revised & refined - 
+
+"As an employee, I want to be able to set my availability preferences, so that the manager takes them into account and assigns shifts accordingly. By specifying my preferred working hours and days off, I can ensure a better work-life balance and increase job satisfaction."
 
 
-### Manager:
+### Managers:
 
+#### Centre Manager
 As a manager, I want to be able to easily asign shifts to my staff.
 
-As a manager, I need something intuitive and easy to use, to increase my efficency when I organise staff shifts.
+Revised & refined -
 
-As a manager, I want to be able to create and manage employee schedules easily, so that I can efficiently allocate resources and ensure adequate coverage for all shifts.
+"As a manager, I want to be able to easily assign shifts to my staff. The app should provide a user-friendly interface that allows me to quickly allocate employees to specific shifts, taking into consideration their availability, qualifications, and any preferences they have expressed. I'm also sick of these fools claiming they haven't seen the roster."
 
+#### Centre Assistant Manager (assman)
+
+"As assman, I need something intuitive and easy to use, to increase my efficency when I organise staff shifts."
+
+Revised & refined -
+
+"As assman, I need something intuitive and easy to use, to increase my efficiency when I organise staff shifts. The app should have a streamlined workflow and intuitive design that enables me to create, edit, and manage employee schedules effortlessly. This will save time and minimize errors in the scheduling process."
+
+#### Director
+
+"As director, I need my ledership team to be able to create and manage employee schedules easily, so that I can efficiently allocate resources and ensure adequate staffing is in place for all shifts."
+
+Revised & refined -
+
+"As director, I need my ledership team to be able to create and manage employee schedules easily, so that I can efficiently allocate resources and ensure adequate staffing is in place for all shifts. The app should provide features such as drag-and-drop functionality, schedule generation based on what I tell my minions, and the ability to easily make adjustments when needed."
 
 
 ## R5: Wireframes
