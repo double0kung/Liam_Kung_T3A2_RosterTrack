@@ -53,6 +53,8 @@ Childcare educators and organisations seeking a streamlined solution for managin
 
 ## R2: Dataflow Diagram
 
+![Data Flow Diagram](docs/Diagrams/DFD.png)
+
 ## R3: Application Architecture Diagram
 
 ![Application Architecture Diagram](docs/Diagrams/Application%20Architecture%20Diagram.png)
