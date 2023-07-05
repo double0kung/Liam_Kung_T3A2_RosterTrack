@@ -152,3 +152,15 @@ Revised & refined -
 ### Mobile Phone
 
 ## R6: Kanban Board
+
+### 28-06-2023 - Planning
+
+![Trello 28/06/23](docs/Trello%20Screenshots/20230628/Trello%20Screenshot%202023-06-28%20193603.jpg)
+
+![Trello 28/06/23](docs/Trello%20Screenshots/20230628/Trello%20Screenshot%202023-06-28%20193923.jpg)
+
+### 05-07-2023 - Project underway
+
+![Trello 05/07/23](docs/Trello%20Screenshots/20230705/Trello%20Screenshot%202023-07-05%20194326.png)
+
+![Trello 05/07/23](docs/Trello%20Screenshots/20230705/Trello%20Screenshot%202023-07-05%20193568.png)
