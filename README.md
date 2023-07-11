@@ -148,11 +148,15 @@ Revised & refined -
 ## R5: Wireframes
 
 ### Desktop
-
+<object data="./docs/Diagrams/RT_Desktop_Wireframe.pdf" type="application/pdf" width="700px" height="700px">
+  <embed src="./docs/Diagrams/RT_Desktop_Wireframe.pdf">
+    <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./Diagrams/RT_Phone_Wireframe.pdf">Desktop Wireframe Diagram</a>.</p>
+  </embed>
+</object>
 ### Mobile Phone
-<object data="./Diagrams/RT_Phone_Wireframe.pdf" type="application/pdf" width="700px" height="700px">
-  <embed src="./Diagrams/RT_Phone_Wireframe.pdf">
-    <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./Diagrams/RT_Phone_Wireframe.pdf">Download PDF</a>.</p>
+<object data="./docs/Diagrams/RT_Phone_Wireframe.pdf" type="application/pdf" width="700px" height="700px">
+  <embed src="./docs/Diagrams/RT_Phone_Wireframe.pdf">
+    <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./Diagrams/RT_Phone_Wireframe.pdf">Phone Wireframe Diagram</a>.</p>
   </embed>
 </object>
 
