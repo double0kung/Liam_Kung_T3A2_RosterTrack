@@ -10,8 +10,8 @@ RosterTrack is an online roster management platform designed to streamline team 
 
 ### Functionality/Features:
 
-- Admin Dashboard: The admin can create and manage team rosters, assign shifts, and update schedules as needed.
-- Calendar View: An interactive calendar interface displays team schedules, making it easy to visualise and manage shifts.
+- Admin can create and manage team rosters, assign shifts, and update schedules as needed.
+- An interactive calendar interface displays team schedules, making it easy to visualise and manage shifts.
 - User Roles: Different user roles are implemented, with admins having full roster management capabilities and standard users being able to view the calendar and their assigned shifts.
 - Secure Login and User Management: A secure login system ensures only authorised individuals can access the platform. User management allows for adding, editing, and removing users.
 - Automated Email Notifications: Email notifications are sent automatically to team members for their assigned shifts, reducing manual communication efforts.
@@ -127,13 +127,15 @@ Revised & refined -
 ## R5: Wireframes
 
 ### Desktop
-
+<!-- Large diagram, decided to embed it as a downloadable pdf file -->
 <object data="./docs/Diagrams/RT_Desktop_Wireframe.pdf" type="application/pdf" width="700px" height="700px">
   <embed src="./docs/Diagrams/RT_Desktop_Wireframe.pdf">
     <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./docs/Diagrams/RT_Desktop_Wireframe.pdf">Desktop Wireframe Diagram</a>.</p>
   </embed>
 </object>
+
 ### Mobile Phone
+
 <object data="./docs/Diagrams/RT_Phone_Wireframe.pdf" type="application/pdf" width="700px" height="700px">
   <embed src="./docs/Diagrams/RT_Phone_Wireframe.pdf">
     <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./docs/Diagrams/RT_Phone_Wireframe.pdf">Phone Wireframe Diagram</a>.</p>
