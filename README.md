@@ -21,6 +21,8 @@ RosterTrack is an online roster management platform designed to streamline team 
 - External Calendar Integration: Integration with external calendar systems, allowing users to sync their assigned shifts with personal calendars.
 - User Profile Page: Users can manage their settings, update personal details, and configure notification preferences.
 - Availability and Dispute Management: Users can indicate their availability or unavailability for specific dates, and a system is implemented to handle disputes or requests for shift changes.
+- Messaging/chat system: for team members to communicate availability or tasks to be done.
+- Upload profile picture
 
 ### Target Audience:
 
@@ -147,9 +149,12 @@ Revised & refined -
 
 ### Desktop
 
-### Tablet
-
 ### Mobile Phone
+<object data="./Diagrams/RT_Phone_Wireframe.pdf" type="application/pdf" width="700px" height="700px">
+  <embed src="./Diagrams/RT_Phone_Wireframe.pdf">
+    <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./Diagrams/RT_Phone_Wireframe.pdf">Download PDF</a>.</p>
+  </embed>
+</object>
 
 ## R6: Kanban Board
 
