@@ -127,6 +127,7 @@ Revised & refined -
 ## R5: Wireframes
 
 ### Desktop
+
 <!-- Large diagram, decided to embed it as a downloadable pdf file -->
 <object data="./docs/Diagrams/RT_Desktop_Wireframe.pdf" type="application/pdf" width="700px" height="700px">
   <embed src="./docs/Diagrams/RT_Desktop_Wireframe.pdf">
@@ -155,3 +156,11 @@ Revised & refined -
 ![Trello 05/07/23](docs/Trello%20Screenshots/20230705/Trello%20Screenshot%202023-07-05%20194326.png)
 
 ![Trello 05/07/23](docs/Trello%20Screenshots/20230705/Trello%20Screenshot%202023-07-05%20193568.png)
+
+### 12-07-2023 - Completing Part A
+
+![Trello 12/07/23](docs/Trello%20Screenshots/20230712/Trello%20Screenshot%202023-07-12%20091423.jpg)
+
+![Trello 12/07/23](docs/Trello%20Screenshots/20230712/Trello%20Screenshot%202023-07-12%20221352.jpg)
+
+![Trello 12/07/23](docs/Trello%20Screenshots/20230712/Trello%20Screenshot%202023-07-12%20221535.jpg)
